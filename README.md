@@ -1,1 +1,1 @@
-# Scrum-master
+# Scrum Master Fundamentals
